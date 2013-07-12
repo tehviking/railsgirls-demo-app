@@ -1,0 +1,19 @@
+textarea#idea_description {
+  width: 50%;
+  height: 240px;
+}
+
+input#idea_name {
+  width: 50%;
+  height: 40px;
+  font-size: 20px;
+}
+
+label {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.field {
+  padding-bottom: 20px;
+}
